@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="![image](https://github.com/user-attachments/assets/84f40d8f-6456-43db-bfb4-aeccbb6409f3)" 
+    src="zSW_4r.gif" 
     alt="MasterHead" 
     style="width: 100%; max-width: 100%;" 
   />
