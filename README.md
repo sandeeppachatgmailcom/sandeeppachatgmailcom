@@ -1,6 +1,7 @@
 <p align="center">
   <img 
-    src="newn.jpg" 
+    src="![image](https://github.com/user-attachments/assets/52145a49-c0b9-4888-ae56-49d6e865556c)
+" 
     alt="MasterHead" 
     style="width: 100%; max-width: 100%;" 
   />
