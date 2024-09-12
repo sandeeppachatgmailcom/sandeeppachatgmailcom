@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="359776937_6409396509154348_3457371427558215760_n.jpg" 
+    src="newn.jpg" 
     alt="MasterHead" 
     style="width: 100%; max-width: 100%;" 
   />
